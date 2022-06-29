@@ -1,4 +1,5 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Layout } from 'antd';
 import React from 'react';
 import Content from './components/content/Content';
